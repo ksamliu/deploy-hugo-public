@@ -1,3 +1,40 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Factset_spyderbot
+Disallow: /
+
+User-agent: LINER Bot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ua_archiver
+Disallow: /
+
+User-agent: DeepSeekBot
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
 User-agent: *
-Disallow:
+Disallow: /cv/
+
 Sitemap: https://samuelkliu.com/sitemap.xml
